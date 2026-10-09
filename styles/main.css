@@ -32,7 +32,6 @@ footer {
 }
 
 .main-menu {
-    text-decoration: none;
     margin: 40px 0;
 }
 
@@ -49,6 +48,7 @@ footer {
 .main-menu a {
     color: black;
     margin-right: 10px;
+    text-decoration: none;
 }
 
 .main-menu a:hover {
